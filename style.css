@@ -1,0 +1,48 @@
+h1 {
+  border: 1px solid red;
+  background-color: #d18c1d;
+  text-align: center;
+  padding: 10px;
+}
+p {
+  border: 2px solid black;
+  width: 600px;
+  height: 400px;
+  margin: 0 auto;
+  outline: 2px dotted black;
+  line-height: 1.5;
+  padding: 16px;
+}
+.img-div {
+  width: 50%;
+  margin: 0 auto;
+}
+.img {
+  width: 100%;
+  object-fit: fill;
+  border-radius: 36px;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #d1d631;
+}
+
+.circle-div {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.footer {
+  text-align: center;
+  margin-top: 1cm;
+}
+a {
+  border-bottom: 3px dotted blue;
+  text-decoration: none;
+  background-color: #a1a1a1;
+  font-size: 30px;
+  margin: 1cm;
+}
